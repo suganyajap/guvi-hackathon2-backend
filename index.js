@@ -2,7 +2,7 @@ import express from "express";//"type":"module"
 import { MongoClient } from "mongodb";
 import dotenv from 'dotenv';
  import { productsRouter } from "./routes/products.js";
-// import { usersRouter } from "./routes/users.js";
+
  import cors from "cors";
 
 dotenv.config();//it will put all the key and value pair inside the process.env
