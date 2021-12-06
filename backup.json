@@ -1,0 +1,62 @@
+[
+    {
+     "id": "50",
+     "picture": "https://www.rentone.in/upload/l/2551/WEB_1473449498145.jpg",
+     "name": "Wireless headphone",
+     "price": 1725
+    },
+    {
+     "id": "51",
+     "picture": "https://www.rentone.in/upload/l/2510/WEB_1473395206483.jpg",
+     "name": "Nikon D5300",
+     "price": 1475
+    },
+    {
+     "id": "52",
+     "picture": "https://www.rentone.in/upload/l/208/LARGE_1474717978202.jpg",
+     "name": "Steel Almirah",
+     "price": 4070
+    },
+    {
+     "id": "53",
+     "picture": "https://www.rentone.in/upload/l/1469/LARGE_1460627348778.jpg",
+     "name": "Desert Cooler",
+     "price": "2499"
+    },
+    {
+     "id": "54",
+     "picture": "https://www.rentone.in/upload/l/94/LARGE_1463858029840.jpg",
+     "name": "Single door Fridge",
+     "price": 399
+    },
+    {
+     "id": "55",
+     "picture": "https://www.rentone.in/upload/l/169/LARGE_1450178580856.jpg",
+     "name": "Athena PP Chair",
+     "price": 499
+    },
+    {
+     "id": "56",
+     "picture": "https://www.rentone.in/upload/l/214/WEB_1463487098847.jpg",
+     "name": "Wooden Double Bed with Storage",
+     "price": 1200
+    },
+    {
+     "id": "57",
+     "picture": "https://www.rentone.in/upload/l/174/LARGE_1463688852566.jpg",
+     "name": "Classic Bean Bag XXL",
+     "price": "299"
+    },
+    {
+     "id": "58",
+     "picture": "https://www.rentone.in/upload/l/97/WEB_b0d3e2b7c080e8807b52abda0a171826-17.29.51.jpeg",
+     "name": "Washing Machine Fully Automatic",
+     "price": 1099
+    },
+    {
+     "picture": "https://www.rentone.in/upload/l/158/LARGE_0956b4fda04e7b5e148dff50412d102c-08.22.44.jpeg",
+     "name": "Dholak",
+     "price": "2499",
+     "id": "59"
+    }
+   ]
