@@ -1,4 +1,4 @@
-import express from "express";//"type":"module"
+import express from "express";
 import { MongoClient } from "mongodb";
 import dotenv from 'dotenv';
  import { productsRouter } from "./routes/products.js";
